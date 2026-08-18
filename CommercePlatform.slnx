@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/CommercePlatform.Application/CommercePlatform.Application.csproj" />
+    <Project Path="src/CommercePlatform.Domain/CommercePlatform.Domain.csproj" />
+    <Project Path="src/CommercePlatform.Infrastructure/CommercePlatform.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/src/CommercePlatform.Api/">
+    <Project Path="src/CommercePlatform.Api/CommercePlaform.Api.csproj" />
+  </Folder>
+</Solution>

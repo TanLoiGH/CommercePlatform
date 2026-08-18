@@ -1,0 +1,6 @@
+@CommercePlaform.Api_HostAddress = http://localhost:5248
+
+GET {{CommercePlaform.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
